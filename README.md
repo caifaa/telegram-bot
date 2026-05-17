@@ -1,13 +1,16 @@
 # TG Shop Bot + Web Admin
 
-独立通用版 Telegram 商品/充值机器人，奥特曼主题UI。
+作者 @chengfaa
+打赏地址 TYmt74UGStPrSvWMTJcH8PXJSdW8enCfNB
+
+独立通用版 Telegram 商品/充值机器人。
 
 ## 功能介绍
 - 💎 Premium会员购买
 - ✨ 星币购买
 - 💰 余额充值（支持USDT/OKPay）
 - 👨‍💼 代理管理（独立机器人和后台）
-- 📱 网页后台（奥特曼主题）
+- 📱 网页后台
 
 ## 安装
 ```bash
