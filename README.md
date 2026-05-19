@@ -1,7 +1,7 @@
 # TG Shop Bot + Web Admin
 
 作者 @chengfaa
-打赏地址 TYmt74UGStPrSvWMTJcH8PXJSdW8enCfNB
+
 
 独立通用版 Telegram 商品/充值机器人。
 
